@@ -1,16 +1,29 @@
-## ???
+# 👾 xoxo
 
-<!--
-**Thexoxo/Thexoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Hacker & Security Enthusiast**
 
-Here are some ideas to get you started:
+Passionate about finding 0-days, reverse engineering, and low-level exploitation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+- 🔍 **Reverse Engineering** - Binary analysis, decompilation, protocol analysis
+- 🎮 **Game Hacking** - Custom tooling, Buisness logical vuln, 0-day
+- 🔐 **Security Research** - Vulnerability research, exploit development
+- 💻 **Low-Level Programming** - Assembly, C++, system internals
+
+## 🚀 Tech Stack
+
+```
+Learning:     C| C++ | Assembly | JavaScript | C# | Verilog 
+Tools:        Binary Ninja | VS Code | GitHub |
+Interests:    0-day research | reverse engineering | Game hacking
+```
+
+## 📫 Contact
+
+- GitHub: [@Thexoxo](https://github.com/Thexoxo)
+- Discord: xoxopentest
+
+---
+
+🎓 Student | 🎯 Cybersecurity Enthusiast | 🕹️ Competitive Gamer 
